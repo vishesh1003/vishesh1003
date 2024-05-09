@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vishesh1003
-- 👀 I’m interested in ...high level languages
 - 🌱 I’m currently learning ...c
 
 - 📫 How to reach me visheshrana110@gmail.com
